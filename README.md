@@ -5,7 +5,7 @@
 問題は3問
 
 ## 公開ページ
-<a href="https://tegamiya.github.io/Quiz/" target="_blank">tegamiya.github.io/Quiz/</a>
+https://tegamiya.github.io/Quiz/
 
 ## 内容
 （問題と答えにアルファベッドが入ってるのはプログラムの確認のため）
