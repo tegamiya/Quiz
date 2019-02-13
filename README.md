@@ -8,9 +8,6 @@
 ## 公開ページ
 https://tegamiya.github.io/Quiz/
 
-## 参考
-ドットインストール  
-
 ## 内容
 （問題と答えにアルファベッドが入ってるのはプログラムの確認のため）
 <img src="https://user-images.githubusercontent.com/40752235/51953124-79d51e00-247e-11e9-9ce5-2ef6ff5ca0b7.png">
